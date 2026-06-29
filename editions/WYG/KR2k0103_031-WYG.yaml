@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0103/WYG/v1/juan/31
+seq: 31
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0103_WYG_031-1a, image: WYG0588/WYG0588-0865c.png}
+body:
+  text: 闗中勝蹟圖志卷三十一陜西巡撫畢沅撰圖闗中勝蹟圖志卷三十一
+  hash: sha256:8433d8d7f947ba51df2d16418753dd7b1d6617e13e90976df2d09b34f95403f7
+metadata:
+  title: 關中勝蹟圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:45:38.735736'
+  juan_title: 卷三十一
+  source:
+    repository: kanripo
+    path: KR2k0103/KR2k0103_031.txt
+hash: sha256:ae988b4bbce8e696ec085ed6cd0b7a9881e75aeb46dbf1abf0ca445093cc8512
