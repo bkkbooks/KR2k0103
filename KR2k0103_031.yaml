@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0103_WYG_031-1a, image: WYG0588/WYG0588-0865c.png}
 body:
-  text: 闗中勝蹟圖志卷三十一陜西巡撫畢沅撰圖闗中勝蹟圖志卷三十一
-  hash: sha256:8433d8d7f947ba51df2d16418753dd7b1d6617e13e90976df2d09b34f95403f7
+  text: 關中勝迹圖志卷三十一陜西巡撫畢沅撰圖關中勝迹圖志卷三十一
+  hash: sha256:b720882bcf2b491975979c1d3362ee6cee3b6118e6bbdb0e10ed822bb641ce60
 metadata:
   title: 關中勝蹟圖志
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0103/KR2k0103_031.txt
-hash: sha256:b0b0cf14d98278accd4d7f4685fde7d263ead412faf741599cc6180df3f1c8b3
+hash: sha256:9f322055b6a9e11da4c130e5ddadcbd0fcd60498fc4564c9502129c0150e1b9b
